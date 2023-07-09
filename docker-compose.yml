@@ -35,7 +35,7 @@ services:
   #     - PGADMIN_DEFAULT_PASSWORD=Catalino2023
   #     - POSTGRES_USER=odoo
   #   depends_on:
-  #     - db
+  #     - db 
   #   ports:
   #     - 5432:80
 

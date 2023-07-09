@@ -19,6 +19,6 @@ RUN mkdir -p /mnt/extra-addons \
 # Establecer el directorio de módulos adicionales
 ENV ODOO_ADDONS_PATH=/mnt/extra-addons
 
-# docker build --pull --rm -f "Dockerfile" -t odoo-16.0 "." 
+# docker build --pull --rm -f "Dockerfile" -t odoo-16.0 "."  
 
 
